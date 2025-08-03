@@ -2,7 +2,7 @@ This is  a SIMPLE CALENDER made with HTML CSS AND JAVASCRIPT
 
 
 ## 🔗 Live Demo
-[Click here to view the website]()
+[Click here to view the website]( https://arunima-manilal.github.io/simplecalculator/)
 
 
 ## 📌 Status
